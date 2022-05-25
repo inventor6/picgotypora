@@ -1,0 +1,2 @@
+# picgotypora
+my picgo typora
